@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.krrishverma.com](www.krrishverma.com)
+- 👨‍💻 All of my projects are available at [www.krrishverma.com]
 
 - 📝 I regularly write articles on [www.technostation.in](www.technostation.in)
 
