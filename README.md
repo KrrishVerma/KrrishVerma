@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at <p>Check out <a href="https://www.krrishverma.com/" target="_blank">www.krrishverma.com</a>.</p>
+- 👨‍💻 All of my projects are available at www.krrishverma.com
 
 - 📝 I regularly write articles on www.technostation.in
+
 - 💬 Ask me about **Arduino**
 
 - ⚡ Fun fact **I am a Technology Freak**
