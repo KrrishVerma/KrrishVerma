@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at www.krrishverma.com
+- 👨‍💻 All of my projects are available at <p>Check out <a href="https://www.krrishverma.com/" target="_blank">www.krrishverma.com</a>.</p>
 
 - 📝 I regularly write articles on www.technostation.in
 - 💬 Ask me about **Arduino**
