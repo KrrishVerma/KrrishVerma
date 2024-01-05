@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krrish</h1>
-<h3 align="center">A passionate High School Student from India</h3>
-
-- 🌱 I’m currently learning **Python**
+<h3 align="center">A passionate College School Student from India</h3>
 
 - 👨‍💻 All of my projects are available at www.krrishverma.com
 
-- 📝 I regularly write articles on www.technostation.in
-
-- 💬 Ask me about **Arduino**
+- 💬 Ask me about **Arduino**  **ESP32**  **Pcb Designing**  **IOT**
 
 - ⚡ Fun fact **I am a Technology Freak**
 
-- ⚒️ Building https://github.com/The-Unified-Tech
+- ⚒️ Building @MakerTechLab
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
