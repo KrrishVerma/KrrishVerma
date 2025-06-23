@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krrish</h1>
-<h3 align="center">A passionate College School Student from India</h3>
+<h3 align="center">A passionate College Student from India</h3>
 
 - 👨‍💻 All of my projects are available at www.krrishverma.com
 
@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am a Technology Freak**
 
-- ⚒️ Building @MakerTechLab
+- ⚒️ Building @BurnInBench
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
