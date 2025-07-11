@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krrish</h1>
 <h3 align="center">A passionate College Student from India</h3>
 
-- 👨‍💻 All of my projects are available at krrishverma.github.io
+- 👨‍💻 All of my projects are available at [krrishverma.github.io](https://krrishverma.github.io/)
 
 - 💬 Ask me about **Arduino**  **ESP32**  **Pcb Designing**  **IOT**
 
