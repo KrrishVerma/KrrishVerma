@@ -2,7 +2,7 @@
 ### An Electronics & IoT Enthusiast from India 🔌💻  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=Embedded+Systems+Developer;PCB+Designer;Technology+Freak;Founder+%40BurnInBench" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&vCenter=true&width=435&lines=Hardware++Developer;PCB+Designer;Technology+Freak;Founder+%40BurnInBench" alt="Typing Animation">
 </p>
 
 <p align="center">
