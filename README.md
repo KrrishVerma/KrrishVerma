@@ -53,7 +53,7 @@ const char* expertise[] = {
 
 ---
 
-### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px"> Project Hub  
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl1enJhaWMyMjB0aHRvdW55NGZsZGxyc29jN2xzeWM5MTJyNGk1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UjPBQkSYNQc1y/giphy.gif" width="30px"> Project Hub  
 [![🌐 Explore My Projects](https://img.shields.io/badge/%F0%9F%8C%90-Explore_My_Projects-FF7F11?style=for-the-badge&logo=vercel)](https://krrishverma.github.io)
 
 #### 🏆 Featured Repositories  
